@@ -1,9 +1,9 @@
-# Mi CV Futuro
+# CV del Futuro – Fernando Galdames Vilches
 ---
-Este proyecto es un currículum hecho solo con HTML, que representa cómo me imagino a mí mismo en 10 años como desarrollador senior. Incluye datos ficticios sobre mi experiencia laboral, formación académica, habilidades técnicas, idiomas y logros destacados.
+Este proyecto es una simulación en formato HTML de cómo visualizo mi perfil profesional dentro de 10 años como desarrollador senior. Contiene información ficticia que refleja mi crecimiento en el área del desarrollo web, incluyendo experiencia laboral simulada, educación proyectada, habilidades técnicas, idiomas y logros profesionales.
 ---
-## **🔧 Tecnologías usadas**:
-- HTML5 (sin CSS ni JavaScript)
-
-📁 Archivo principal:
+## **🛠️ Tecnologías utilizadas**:
+- HTML5 (estructura básica sin uso de CSS o JavaScript)
+---
+📄 Archivo principal del proyecto:
 - mi_cv_futuro.html
