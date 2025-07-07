@@ -6,4 +6,4 @@ Este proyecto es una simulación en formato HTML de cómo visualizo mi perfil pr
 - HTML5 (estructura básica sin uso de CSS o JavaScript)
 ---
 📄 Archivo principal del proyecto:
-- mi_cv_futuro.html
+- curriculum.html
