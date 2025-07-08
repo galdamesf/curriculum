@@ -8,24 +8,22 @@
   <body>
     <h2>Formularios</h2>
     <form action="">
-      <div>
-        <label for="nombre">Ingresa tu nombre</label>
-        <div>
-          <input type="text" />
-        </div>
-        <div>
-          <label for="edad">Ingresa tu edad</label>
-        </div>
-        <div>
-          <input type="edad" />
-        </div>
-        <div>
-          <label for="email">Ingresa tu email</label>
-        </div>
-        <div>
-          <input type="email" />
-        </div>
-      </div>
+      <label for="nombre">
+        <span>Ingresa tu nombre</span>
+        <input type="text" id="nombre" placeholder="nombre" />
+      </label>
+      <br />
+      <label for="edad">
+        <br />
+        <span>Fecha de Nacimiento</span>
+        <input type="date" id="edad" />
+      </label>
+      <br />
+      <label for="tiempo">
+        <br />
+        <span>¿En qué horario estudias?</span>
+        <input type="time" id="tiempo" />
+      </label>
     </form>
   </body>
 </html>
